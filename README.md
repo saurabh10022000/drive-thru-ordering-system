@@ -1,5 +1,9 @@
 # 🚗 Drive-Thru Ordering System (Svelte + FastAPI + OpenAI)
 
+
+https://github.com/user-attachments/assets/ea2e34d5-6897-439d-a6e3-24a9670a7138
+
+
 This is a **mock drive-thru ordering system** built with:
 - **Frontend:** Svelte + Vite
 - **Backend:** FastAPI (Python)
